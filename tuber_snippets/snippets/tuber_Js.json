@@ -1,0 +1,6 @@
+{
+  "teeeeesssst_JS": {
+    "prefix": "tes",
+    "body": "setImmediate(() => {\n\t${0}\n})"
+  }
+}
